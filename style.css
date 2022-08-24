@@ -1,0 +1,161 @@
+*{
+    padding: 0;
+    margin:0;
+}
+.header{
+    background-image: url('images/donation5.jpg') ;
+    height: 600px;
+    color: honeydew;
+    text-align: center;
+   
+}
+.heading{
+    font-size: 60px;
+    text-align: center;
+    padding-top: 100px;
+}
+.heading-paragraph{
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.donation-link{
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    background-color: tomato;
+    border-radius: 5px;
+    font-size: 20px;
+
+}
+.section-2{
+    text-align: center;
+    height: 400px;
+    padding: 60px 150px;
+
+}
+.sec-2-heading{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 35px;
+}
+.sec-2-paragraph{
+    color: grey;
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+ul{
+    list-style: none;
+    
+   
+}
+li{ 
+    float: left;
+    display: block;
+    padding: 20px;
+    margin-left: 90px;
+    color: grey;
+    font-size: 30px;
+    margin-bottom: 30px;
+    background-color: ghostwhite;
+   
+}
+#sec-tk{
+border: 2px solid tomato;
+color: tomato;
+}
+
+
+.input-field {
+    width: 100%;
+    text-align: center;
+    border: 0;
+    z-index: 1;
+    background-color: transparent;
+    border-bottom: 3px solid #eee;
+    font-size: 15px;
+    margin-bottom: 40px;
+   
+
+
+}
+.section-3{
+    text-align: center;
+    padding: 60px 150px;
+
+}
+.sec-3-head{
+font-size: 30px;
+margin-bottom: 15px;
+}
+.sec-3-p{
+color: grey;
+font-size: 20px;
+}
+.section-4{
+    
+    padding: 50px;
+    
+
+}
+
+.box{
+    float: left;
+    padding: 50px;
+    width: 25%;
+    
+}
+#bg-1 {
+    background-color: rgb(239, 245, 246);
+}
+
+#bg-2 {
+    background-color:white;
+}
+
+#bg-3 {
+    background-color: rgb(242, 233, 207);
+}
+
+.clr{
+    clear: both;
+}
+.section-5{
+    margin-top: 40px;
+    height: 400px;
+}
+.halfwidth{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.halfwidth img{
+    width: 100%;
+}
+
+footer {
+margin-top: 20px;
+    background-color: #0B0D17;
+    text-align: center;
+    padding: 26px;
+
+}
+
+footer h3 {
+
+    color: #FF5959;
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
+}
+
+footer p {
+
+    color: #D9DBE1;
+   
+    font-weight: 200;
+
+}
